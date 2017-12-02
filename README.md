@@ -1,0 +1,2 @@
+# Teleinfo Three Phase
+Arduino code for a french ERDF electrical counter equiped with three phase. Decodes and parse the electrical information as an Oregon Scientific V3 radio data transmitted by OWL CM180 Energy sensor (433.92MHz), to be used for example with a Domoticz instance

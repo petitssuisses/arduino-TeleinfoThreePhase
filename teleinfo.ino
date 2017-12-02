@@ -1,6 +1,6 @@
 /* Ce programme a été élaboré à partir du code de M. Olivier LEBRUN réutilisé en grande partie pour réaliser un encodeur OWL CM180 (Micro+)
 /* ainsi qu'à partir du code (+ carte électronique à relier au compteur) de M. Pascal CARDON pour la partie téléinfo
-/* Onlinux a fourni des trames du OWL CM180 me permettant de faire les algo d'encodage (il a développer un code de décodage des trames)
+/* Onlinux a fourni des trames du OWL CM180 me permettant de faire les algo d'encodage (il a développé un code de décodage des trames)
 /* Je remercie les auteurs. Ci-dessous les liens vers leur site internet.
 /* ***** 04/03/2015 ******** Snips *******
 /*=======================================================================================================================
